@@ -1,1 +1,30 @@
+Output:
+
+program14_1.c:
+Input:Enter number:123456
+Output:6
+       5
+       4
+       3
+       2
+       1
+
+program14_2.c:
+Input:1)Enter number:1234
+Output:There is no Zero
+
+Input:2)Enter number:1023
+Output:It Contains Zero
+
+program14_3.c:
+Input:Enter number:22542
+Output:Frequency of 2 is:3
+
+program14_4.c:
+Input:Enter number:1234444
+Output:Frequency of 4 is:4
+
+program14_5.c:
+Input:Enter number:209832
+Output:Frequency of digits less than 6 is:4
 
