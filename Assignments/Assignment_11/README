@@ -1,1 +1,36 @@
+Output:
+program11_1.c:
+Input:Enter Starting Point:100
+Enter Ending Point:50
+Output:5051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100
+
+program11_2.c:
+Enter Starting Point:12
+Enter Ending Point:50
+Even numbers between 12 and 50 are:
+1214161820222426283032343638404244464850
+
+program11_3.c:
+1)Enter Starting Point:23
+Enter Ending Point:30
+Addition of  is:212
+
+2)Enter Starting Point:10
+Enter Ending Point:18
+Addition is:70
+
+program11_4.c:
+Enter Starting Point:23
+Enter Ending Point:30
+Addition is:108
+
+program11_5.c:
+1)Enter Starting Point:23
+Enter Ending Point:35
+35 34 33 32 31 30 29 28 27 26 25 24 23
+
+2)Enter Starting Point:12
+Enter Ending Point:20
+20 19 18 17 16 15 14 13 12
+
 
