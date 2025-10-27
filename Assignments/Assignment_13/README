@@ -1,1 +1,21 @@
+Output:
 
+program13_1.c:
+Input:Enter Number:10
+Output: 12345678910
+
+program13_2.c:
+Input:Enter Number:15
+Output: 2 4 6 8 10 12 14
+ 
+program13_3.c:
+Input:Enter Number:15
+Output:1 3 5 7 9 11 13 15
+
+program13_4.c:
+Input:Enter Number:10
+Output:Sum of first natural number:55
+
+program13_5.c:
+Input:Enter Number:5
+Output:Sum of even 5 number:30
