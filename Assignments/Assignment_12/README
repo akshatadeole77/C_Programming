@@ -1,1 +1,25 @@
+Output:
 
+program12_1.c:
+Input:Enter Number:10
+Output:Factors of:10
+12510
+
+program12_2.c:
+Input:Enter Number:15
+Output:4
+
+program12_3.c:
+Input:Enter Number:12
+Output:28
+
+program12_4.c:
+Input:Enter Number:18
+Output:26
+
+program12_5.c:
+Input:Enter Number:25
+Output:Yes
+
+Input:Enter Number:22
+Output:No
