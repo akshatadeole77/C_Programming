@@ -1,1 +1,21 @@
+Output:
 
+program15_1.c:
+Input:Enter number3452
+Output:Count of even digits is: 2
+
+program15_2.c:
+Input:Enter number:4567
+Output:Count of odd digits is: 2
+
+program15_3.c:
+Input:Enter number:5836742
+Output:Count of digits between 3 and 7 is: 3
+
+program15_4.c:
+Input:Enter number:52
+Output:Multiplication of all digits is: 10
+
+program15_5.c:
+Input:Enter number:1234
+Output:Difference between even and odd digits is:2
