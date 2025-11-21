@@ -1,4 +1,4 @@
-Program28_1.c:
+Program22_1.c:
 Enter the number of elements3
 Enetr 3 elements : 10
 Enter element : 26
@@ -8,7 +8,7 @@ Result is 3
 
 
 
-Program28_2.c:
+Program22_2.c:
 Enter number of elements :
 5
 Enter 5 elements :
@@ -21,7 +21,7 @@ Result is : 3
 
 
 
-Program28_3.c:
+Program22_3.c:
 Enter number of elements :
 4
 Enter 4 elements :
@@ -32,7 +32,7 @@ Enter 4 elements :
 11 is absent
 
 
-Program28_4.c:
+Program22_4.c:
 Enter number of elements : 6
 Enter 6 elements
 Enter element :1
@@ -51,7 +51,7 @@ Frequency of 11 is : 2
 
 
 
-Program28_5.c:
+Program22_5.c:
 Enter number of elements: 6
 Enter the number to check frequency: 66
 Enter 6 elements:
