@@ -1,1 +1,47 @@
+Output:
+
+Program28_1.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+A       B       C       D
+A       B       C       D
+A       B       C       D
+
+
+
+Program28_2.c:
+Enter numbers of rows :5
+Enter numbers of columns :5
+A       B       C       D       E
+a       b       c       d       e
+A       B       C       D       E
+a       b       c       d       e
+A       B       C       D       E
+
+
+Program28_3.c:
+Enter numbers of rows :4
+Enter numbers of columns :3
+A       B       C
+A       B       C
+A       B       C
+A       B       C
+
+
+Program28_4.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+3       3       3       3
+2       2       2       2
+1       1       1       1
+
+
+
+Program28_5.c:
+Enter numbers of rows :4
+Enter numbers of columns :4
+1       2       3       4
+5       6       7       8
+9       10      11      12
+13      14      15      1
 
