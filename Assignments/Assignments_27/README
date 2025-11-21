@@ -1,1 +1,37 @@
+Output:
 
+Program27_1.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+*       *       *       *
+*       *       *       *
+*       *       *       *
+
+
+Program27_2.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+1       2       3       4
+1       2       3       4
+1       2       3       4
+
+
+Program27_3.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+4       3       2       1
+4       3       2       1
+4       3       2       1
+
+
+Program27_4.c:
+Enter numbers of rows :3
+Enter numbers of columns :4
+*       #       *       #
+*       #       *       #
+*       #       *       #
+
+
+Program27_5.c:
+Enter numbers of elements :4
+1 * 2 * 3 * 4 *
