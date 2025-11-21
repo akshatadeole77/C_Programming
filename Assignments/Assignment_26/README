@@ -1,1 +1,21 @@
+Output:
 
+Program26_1.c:
+Enter numbers of elements5
+A       B       C       D       E
+
+Program26_2.c:
+Enter numbers of elements :5
+5 #  4  #   3  #   2  #   1  #
+
+Program26_3.c:
+Enter numbers of elements :7
+1  *  2  *   3   *   4  *   5   *   6   *   7
+
+Program26_4.c:
+Enter numbers of elements :10
+2       4       6       8       10      12      14      16      18      20
+
+Program26_5.c:
+Enter numbers of elements :3
+# 1 * # 2 * # 3 *
