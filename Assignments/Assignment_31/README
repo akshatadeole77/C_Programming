@@ -1,1 +1,45 @@
+Output:
 
+program31_1.c:
+Enter numbers of rows :5
+Enter numbers of columns :5
+*
+*       *
+*       *       *
+*       *       *       *
+*       *       *       *       *
+
+program31_2.c:
+Enter numbers of rows :5
+Enter numbers of columns :5
+*       *       *       *       *
+*       *       *       *
+*       *       *
+*       *
+*
+
+program31_3.c:
+Enter numbers of rows :4
+Enter numbers of columns :4
+$       *       *       *
+#       $       *       *
+#       #       $       *
+#       #       #       $
+
+program31_4.c:
+Enter numbers of rows :4
+Enter numbers of columns :4
+*       *       *       *
+*       *               *
+*               *       *
+*       *       *       *
+
+program31_5.c:
+Enter numbers of rows :5
+Enter numbers of columns :
+5
+1       2       3       4       5
+        2       3       4       5
+                3       4       5
+                        4       5
+                                5
